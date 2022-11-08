@@ -5,7 +5,7 @@
  * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
-package Tarea.C2_3;
+package Tarea.C3_1;
 
 public class Ej2 {
     public static void main(String[] args) {
