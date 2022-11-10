@@ -1,6 +1,6 @@
 
 /*
- * Transformación de euros a pesetas.
+ * Transformación de pesetas a euros.
  *
  * @author Luis Miguel García Sevilla - 1º DAM.
  * */
