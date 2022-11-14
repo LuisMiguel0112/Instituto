@@ -16,7 +16,7 @@ public class Ej12 {
     double nota1 = s.nextDouble();
     System.out.print("Introduce la media que quieres tener: ");
     double media = s.nextDouble();
-    //double nota2 = ((media-(nota1*0.40)));
-    //System.out.println("La nota necesaria en el segundo examen para tener un "+media+" de media es: "+nota2+".");
+    double nota2 = ((media-(nota1*0.40))/0.60);
+    System.out.println("La nota necesaria en el segundo examen para tener un "+media+" de media es: "+nota2+".");
   }
 }
