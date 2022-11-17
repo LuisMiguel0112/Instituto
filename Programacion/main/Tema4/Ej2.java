@@ -2,7 +2,7 @@
 /*
  * Dar buenos dias/tardes/noches segun la hora introducida.
  *
- * @author Luis Miguel García Sevila - 1º DAM.
+ * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
 package Tema4;

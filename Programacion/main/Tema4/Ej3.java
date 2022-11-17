@@ -2,7 +2,7 @@
 /*
  * Mostrar el dia correspondiente al número introducido.
  *
- * @author Luis Miguel García Sevila - 1º DAM.
+ * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
 package Tema4;

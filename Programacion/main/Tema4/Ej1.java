@@ -2,7 +2,7 @@
 /*
  * Programa que da la asignatura de la prmera hora de el dia solicitado.
  *
- * @author Luis Miguel García Sevila - 1º DAM.
+ * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
 package Tema4;

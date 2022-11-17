@@ -2,7 +2,7 @@
 /*
  * Calcular una ecuación de segundo grado de tipo: ax + b = 0.
  *
- * @author Luis Miguel García Sevila - 1º DAM.
+ * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
 package Tema4;
@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Ej5 {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
-    System.out.println("Este programa resuelve ecuaciones de primer grado del tipo ax + b = 0");
+    System.out.println("Este programa resuelve ecuaciones de primer grado del tipo: ax + b = 0");
     System.out.print("Por favor, introduzca el valor de a: ");
     double a = s.nextDouble();
     System.out.print("hora introduzca el valor de b: ");

@@ -2,7 +2,7 @@
 /*
  * Calcular el salario semanal de un trabajador teniendo en cuenta las horas ordinarias y extras.
  *
- * @author Luis Miguel García Sevila - 1º DAM.
+ * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
 package Tema4;
