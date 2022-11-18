@@ -18,28 +18,34 @@ public class Ej3 {
     switch (numero){
       case 1:
         dia = "Lunes";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 2:
         dia = "Martes";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 3:
         dia = "Miercoles";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 4:
         dia = "Jueves";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 5:
         dia = "Viernes";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 6:
         dia = "Sabado";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       case 7:
         dia = "Domingo";
+        System.out.println("El dia "+numero+" es "+dia+".");
         break;
       default:
-        dia = "No existe ese día.";
+        System.out.println("No existe ese día.");
     }
-    System.out.println("El dia "+numero+" es "+dia+".");
   }
 }
