@@ -5,7 +5,7 @@
  * @author Luis Miguel García Sevila - 1º DAM.
  * */
 
-package Tema4;
+package Tema4.C4_1;
 
 import java.util.Scanner;
 

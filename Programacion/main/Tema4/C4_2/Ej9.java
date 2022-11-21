@@ -5,7 +5,7 @@
  * @author Luis Miguel García Sevilla - 1º DAM.
  * */
 
-package Tema4;
+package Tema4.C4_2;
 
 import java.util.Scanner;
 import java.lang.Math;
