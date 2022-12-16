@@ -1,3 +1,10 @@
+
+/*
+ *   Calcule el precio según el alto y el ancho de la bandera de España.
+ *
+ *   @author Luis Miguel García Sevilla - 1º DAM.
+ */
+
 package Tema4.C4_5;
 
 import java.util.Scanner;
